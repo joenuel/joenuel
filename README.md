@@ -2,7 +2,7 @@
 - 👀 I’m interested in mods
 - 🌱 I’m currently learning about coding
 - 💞️ I’m looking to collaborate on with people
-- 📫 How to reach me my gmail apontejoenuel@gmail
+- 📫 How to reach me my gmail apontejoenuel@gmail.com
 
 <!---
 joenuel/joenuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
