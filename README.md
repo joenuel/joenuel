@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joenuel
 - 👀 I’m interested in mods
 - 🌱 I’m currently learning about coding
-- 💞️ I’m looking to collaborate on with peaople
+- 💞️ I’m looking to collaborate on with people
 - 📫 How to reach me my gmail apontejoenuel@gmail
 
 <!---
